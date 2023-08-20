@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16908
-Fork on GitHub
-4782
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Roshan Jose</h1>
 <h3 align="center">Tech Lover, Product Manager & Entrepreneur</h3>
 
